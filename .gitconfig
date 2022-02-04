@@ -1,0 +1,10 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	email = issssssamoney@gmail.com
+	name = IssaU133
+[alias]
+	ci = commit
