@@ -372,3 +372,13 @@ git remote add origin git@github.com:IssaU133/samurai_HTML-CSS.git
 git push origin main
 cd
 git init
+git add .
+git commit -m "second commit"
+git remote add origin git@github.com:IssaU133/samurai_HTML-CSS.git
+git push origin main
+git push origin master
+git branch --set-upstream-to=　origin/master
+git branch --set-upstream-to= origin/master
+git branch --set-upstream-to= origin/master master
+git push origin master
+git init
