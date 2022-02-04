@@ -394,3 +394,8 @@ git push origin master
 .bash_history
 git .bash_history
 git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:IssaU133/samurai_HTML-CSS.git
+git push origin master
+mv home.html index.html
