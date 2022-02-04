@@ -399,3 +399,18 @@ git commit -m "first commit"
 git remote add origin git@github.com:IssaU133/samurai_HTML-CSS.git
 git push origin master
 mv home.html index.html
+git add .
+git commit -m "Rename a file 'index.html'"
+git push origin master
+git add .
+git init
+git add .
+git commit -m "first commit"
+git push origin master
+git remote add origin git@github.com:IssaU133/samurai_HTML-CSS.git
+git push origin master
+cd
+git init
+git add .
+git push origin master
+mv home.html index.html
